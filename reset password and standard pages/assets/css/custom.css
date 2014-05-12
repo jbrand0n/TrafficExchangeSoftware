@@ -1,0 +1,30 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+.edit_me{
+	cursor:pointer;
+}
+
+.edit_me i {
+  color: #333333 !important;
+}
+
+.edit_me i:hover {
+  color: #888 !important;
+}
+
+.user_edit input{
+	display:none;
+}
+
+.no-padding{
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+
+.user_edit .has-error {
+  border-color: #FFAFBD;
+}
